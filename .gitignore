@@ -1,0 +1,12 @@
+# dependencies
+/frontend/node_modules
+
+# IDE
+.idea
+/frontend/.idea/
+
+# production
+/frontend/build
+
+/frontend/package-lock.json
+/frontend/test
