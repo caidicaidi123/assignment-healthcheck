@@ -1,4 +1,4 @@
-# assignment-healthcheck
+# Assignment-Healthcheck
 
 ## Frontend (React)
 1. Navigate to /frontend
@@ -10,6 +10,7 @@ The app is running at http://localhost:8080
 1. Navigate to /backend
 2. go get github.com/gorilla/mux github.com/gorilla/handlers
 3. go run main.go app.go model.go
+Server is running at http://localhost:8000
 
 ## Run API Tests
 1. Navigate to /backend
