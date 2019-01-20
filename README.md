@@ -19,6 +19,6 @@ Server is running at http://localhost:8000
 3. go test -v
 
 ## Endpoints
-POST /api/healthcheck 
-GET /api/healthcheck 
-DELETE /api/healthcheck 
+POST /api/healthcheck  
+GET /api/healthcheck  
+DELETE /api/healthcheck  
