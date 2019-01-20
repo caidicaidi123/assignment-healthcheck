@@ -1,11 +1,11 @@
 # Assignment-Healthcheck
 
 ## Frontend (React)
-* If new website dose not appear, refresh the page. There will be some delay as the response time of the website is long
 1. Navigate to /frontend  
 2. npm install  
 3. npm start  
 The app is running at http://localhost:8080  
+Refresh the page if new website does not appear, since some website has relatively long response time . 
 
 ## Backend (Go)
 1. Navigate to /backend
